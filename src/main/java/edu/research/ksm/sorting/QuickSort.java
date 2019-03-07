@@ -1,5 +1,16 @@
 package edu.research.ksm.sorting;
 
+
+/**
+   Original Source Code taken from :
+   http://www.java2novice.com/java-sorting-algorithms/quick-sort/
+
+   Modified by:
+   Ray Andrew <raydreww@gmail.com>
+   https://github.com/rayandrews
+**/
+
+
 public class QuickSort {
     private int[] array;
     private int length;
